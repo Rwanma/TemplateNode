@@ -1,0 +1,23 @@
+typescript setup:
+https://www.digitalocean.com/community/tutorials/setting-up-a-node-project-with-typescript
+npm init -y
+npm install typescript
+npm install express
+npm install @types/express
+npm install eslint
+npx eslint --init
+
+
+to start you can use both:
+"start": "ts-node dist/app.js",
+     "start": "tsc dist/app.js",
+
+
+
+to copy the  json files add:
+  "include":[
+    "src/**/*",
+    "src/**/*.json"
+  ]
+to tsconfig
+

@@ -1,0 +1,8 @@
+{
+    "database": {
+        "name": "test_database",
+        "host": "localhost",
+        "user": "marwan",
+        "password": "CroissantDatabase"
+    }
+}

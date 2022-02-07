@@ -1,0 +1,1 @@
+{"version":3,"file":"PromiseGetData.js","sourceRoot":"","sources":["../../src/Database/PromiseGetData.ts"],"names":[],"mappings":";;;AAAA,6DAAuD;AAGvD,MAAa,cAAc;IAEvB,cAAc;QACV,uCAAkB,CAAC,KAAK,CAAC,yBAAyB,EAAE,UAAU,KAAK,EAAE,OAAO;YACxE,OAAO,CAAC,GAAG,CAAC,OAAO,CAAC,CAAC;QACzB,CAAC,CAAC,CAAC;IACP,CAAC;CACJ;AAPD,wCAOC;AAGD,8CAA8C"}
